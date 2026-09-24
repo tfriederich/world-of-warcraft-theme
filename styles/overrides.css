@@ -34,7 +34,7 @@ body::after {
 }
 
 /* Chat surface: translucent arcane glass so the vista shows through faintly
-   behind the transcript without hurting legibility. */
+   behind the chat log without hurting legibility. */
 .chat-container {
   background:
     linear-gradient(180deg, #0b1424d9 0%, #0a1120ee 100%);
