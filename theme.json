@@ -1,0 +1,17 @@
+{
+  "slug": "world-of-warcraft",
+  "name": "World of Warcraft",
+  "emoji": "⚔️",
+  "level": 1,
+  "formatVersion": 1,
+  "branding": {
+    "logo": "branding/logo.png"
+  },
+  "loaderIcons": ["sparkles", "star", "flower", "moon"],
+  "fonts": [
+    { "family": "EB Garamond", "file": "ebgaramond-400.woff2", "weight": 400, "role": "sans" },
+    { "family": "EB Garamond", "file": "ebgaramond-500.woff2", "weight": 500, "role": "sans" },
+    { "family": "EB Garamond", "file": "ebgaramond-600.woff2", "weight": 600, "role": "sans" },
+    { "family": "Space Mono", "file": "space-mono-400.woff2", "weight": 400, "role": "mono" }
+  ]
+}
