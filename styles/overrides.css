@@ -30,8 +30,8 @@
 
 /* Input area on a solid arcane base */
 .input-area {
-  background: #08101f;
-  box-shadow: inset 0 1px 0 #1c2c46;   /* separation without adding box height (was border-top, which nudged the 2-line reflow) */
+  background: #08101f80;   /* semi-transparent so the vista shows behind the chatbox */
+  box-shadow: inset 0 1px 0 #1c2c46;   /* separator line without adding box height (a border-top nudged the 2-line reflow) */
 }
 
 /* Primary button glows like an enchanted item — the one gold highlight */
